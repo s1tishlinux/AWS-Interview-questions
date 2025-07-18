@@ -102,14 +102,3 @@ re.findall(r'\d+', "AWS cost: 250 USD in 2024")
   ```python
   re.match(r'(?P<level>#{1,6}) (?P<text>.+)', line)
   ```
-
----
-
-## 💡 Want to Practice?
-
-Let me know if you'd like:
-- 🧩 Small regex **challenges**
-- 📒 Practice notebook
-- 📥 Cheat sheet PDF
-
----
